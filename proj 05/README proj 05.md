@@ -38,7 +38,7 @@ No installation is required. Simply download the provided [Python script](proj05
 - Input Data Files (e.g., "KGF.csv," "all.csv," "small.csv," "singlestar.csv"): These files contain exoplanetary data used for analysis.
 
 ## License<a name="license"></a>
-This program is provided under the [MIT License](License.md).
+This program is provided under the [MIT License](../License.md).
 
 Please feel free to use, modify, and distribute this code according to the terms of the license.
 
