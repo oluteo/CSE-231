@@ -42,6 +42,6 @@ This program is provided under the [MIT License](../License.md).
 
 Please feel free to use, modify, and distribute this code according to the terms of the license.
 
-For questions or support, contact [Your Name] at [Your Email].
+For questions or support, contact Ibukunoluwa Olutayo at [Ibukunoluwaolutayo@gmail.com](mailto:Ibukunoluwaolutayo@gmail.com).
 
 Enjoy analyzing exoplanetary data with this Python program!
