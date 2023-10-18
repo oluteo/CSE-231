@@ -1,2 +1,2 @@
 # CSE-231
-analyze dataa related to exoplanets and their habitability
+This repository is for the CSE 231 course in Michigan State University
