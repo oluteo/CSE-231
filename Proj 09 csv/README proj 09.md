@@ -48,6 +48,6 @@ This project is provided under the MIT License. You can view the full license de
 
 Please feel free to use, modify, and distribute this code according to the terms of the license.
 
-For questions or support, contact the author (replace with your contact information).
+For questions or support, contact Ibukunoluwa Olutayo at [Ibukunoluwaolutayo@gmail.com](mailto:Ibukunoluwaolutayo@gmail.com).
 
-Enjoy analyzing stock exchange data with this Python program!
+Enjoy analyzing your friend network with this Python program!
