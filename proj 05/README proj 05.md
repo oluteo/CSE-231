@@ -31,14 +31,14 @@ The program performs the following functions:
 - Identifies rocky and gaseous planets within the habitable zone and determines the closest planet of each type.
 
 ## Installation<a name="installation"></a>
-No installation is required. Simply download the provided [Python script](computer_project_5.py) and run it in a Python environment.
+No installation is required. Simply download the provided [Python script](proj05.py) and run it in a Python environment.
 
 ## File Structure<a name="file-structure"></a>
 - [proj05.py](proj05.py): The main Python script containing the program.
 - Input Data Files (e.g., "KGF.csv," "all.csv," "small.csv," "singlestar.csv"): These files contain exoplanetary data used for analysis.
 
 ## License<a name="license"></a>
-This program is provided under the [MIT License](LICENSE).
+This program is provided under the [MIT License](License.md).
 
 Please feel free to use, modify, and distribute this code according to the terms of the license.
 
