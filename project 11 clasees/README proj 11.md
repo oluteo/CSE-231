@@ -33,11 +33,11 @@ The `Volume` class provides the following functionality:
 6. Perform addition and subtraction on volume objects.
 
 ## Installation<a name="installation"></a>
-1. Download the provided Python script ([proj11.py](proj11.py)).
+1. Download the provided Python script ([class.py](class.py)).
 2. Use the `Volume` class by importing it into your Python project.
 
 ## File Structure<a name="file-structure"></a>
-- [proj11.py](proj11.py): The main Python script containing the `Volume` class.
+- [class.py](class.py): The main Python script containing the `Volume` class.
 
 ## License<a name="license"></a>
 This project is provided under the MIT License. You can view the full license details in the [License.md](../License.md) file.
