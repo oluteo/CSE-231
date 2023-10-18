@@ -34,7 +34,7 @@ The program performs the following functions:
 No installation is required. Simply download the provided Python script and run it in a Python environment.
 
 ## File Structure<a name="file-structure"></a>
-- `computer_project_5.py`: The main Python script containing the program.
+- `proj05.py`: The main Python script containing the program.
 - Input Data Files (e.g., "KGF.csv," "all.csv," "small.csv," "singlestar.csv"): These files contain exoplanetary data used for analysis.
 
 ## License<a name="license"></a>
